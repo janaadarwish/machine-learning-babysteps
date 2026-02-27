@@ -46,3 +46,18 @@ The repository contains **4 internship projects**:
 ---
 
 ## 📂 Repository Structure
+CodeAlpha_DataScience_Internship/
+│
+├── projects/
+│ ├── iris_classification/ # Iris Flower Classification
+│ ├── unemployment_analysis/ # Unemployment Analysis
+│ ├── project_3/ # Third project
+│ └── project_4/ # Fourth project
+│
+├── data/ # Datasets (optional, if not in project folders)
+├── notebooks/ # Jupyter notebooks for exploration
+├── src/ # Python scripts
+└── README.md # Main README file
+
+
+---
